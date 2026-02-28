@@ -1,0 +1,21 @@
+{
+  "name": "Clarivise",
+  "short_name": "Clarivise",
+  "description": "AI solutions, trading insights, education, wellbeing, and social impact. Transform your business with AI-powered solutions designed for purpose and wisdom.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f4",
+  "theme_color": "#e5b032",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/clarivise-favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["business", "productivity", "education"],
+  "lang": "en-IN",
+  "dir": "ltr"
+}
